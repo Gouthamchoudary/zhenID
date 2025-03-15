@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function generateRandomName() {
-    const names = ["John Doe", "Jane Smith", "Alice Brown", "Bob Johnson"];
+    const names = ["Goutham", "Yoda", "Elon Musk", "Modi"];
     return names[Math.floor(Math.random() * names.length)];
   }
 
